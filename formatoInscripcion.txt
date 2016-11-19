@@ -51,19 +51,6 @@ Unidad 5. Apps nativas. iCloud, iTunes, iBooks, iMovie
 	5.-Podcast. Publicación de investigaciones a través de los Podcast de iTunes.
 	6.-Desarrollar la habilidad de crear un libro digital. Alternativa a publicación de libros digitalmente.
 	7.-Desarrollar la habilidad de producir, editar y publicar un video digital. Edición de videos y material multimedia con iMovie.
-
-Unidad 6. Utilidad de discos y recuperación de sistema.
-	Objetivo. Recuperar nuestro sistema operativo en caso de sufrir algún daño.
-	1.-Formatear una USB. 
-	2.-Recuperar el sistema operativo. 
-	3.-Creación de una USB booteable. Para instalación de sistema operativo.
-	4.-Formatear. Re-instalación del sistema operativo.
-
-Unidad 7. Terminal y Scripts
-	Objetivo. Automatizar procesos y escalar en el uso de nuestro ordenador.
-	1.-Ventajas de usar la termian. Ejecutar aplicaciones de manera rápida.
-	2.-Comandos Básicos.Manejar el sistema operativo desde la terminal en caso de obtener restricciones en el entorno gráfico.
-	3.-Desarrollo de un Script Básico en Automator. Automatizar algún trabajo vinculando aplicaciones.
 	
 Elementos para curso.
 	Equipo Mac adquirida en el año 2009 o posterior que soporte el sistema operativo MacOS Sierra.
